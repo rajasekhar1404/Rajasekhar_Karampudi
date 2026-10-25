@@ -1,6 +1,6 @@
 # Rajasekhar Karampudi — About Me
 
-A responsive, dependency-free personal portfolio built with HTML and CSS.
+A responsive, dependency-free personal portfolio built with HTML and CSS, featuring CentralHub, a personal mobile app project.
 
 ## Publish with GitHub Pages
 
